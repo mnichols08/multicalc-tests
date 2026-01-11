@@ -9,16 +9,16 @@ Follow these instructions to get a copy of the project up and running on your lo
 ### Installation
 
 1. **Fork the repository into your account.**
-2. Add submodule to existing repository:
+2. Clone the repository:
 
    ```sh
-   git submodule add https://github.com/YOUR-USERNAME/multicalc-tests.git
+   git clone https://github.com/YOUR-USERNAME/multicalc.git
    ```
 
 3. Navigate to the project directory:
 
    ```sh
-   cd multicalc-tests
+   cd multicalc
    ```
 4. Install the dependencies:
 
