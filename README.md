@@ -8,11 +8,11 @@ Follow these instructions to get a copy of the project up and running on your lo
 
 ### Installation
 
-1. **Fork the repository into your account.**
-2. Clone the repository:
+1. **Add Submodule the guided project repository into your account.**
+2. Use git command to add submodule the guided repository:
 
    ```sh
-   git clone https://github.com/YOUR-USERNAME/multicalc.git
+   git submodule add https://github.com/YOUR-USERNAME/multicalc.git
    ```
 
 3. Navigate to the project directory:
